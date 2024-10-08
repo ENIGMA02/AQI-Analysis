@@ -2,7 +2,7 @@
 
 # Interactive Analysis of GDP, Happiness & AQI Data(2022-2024)
 
-## This is a Project which is a part of a larger dataset and a regression model which was completed under the guidance of in field experts from **The Clean Air Fund(^*)
+## This is a Project which is a part of a larger dataset and a regression model which was completed under the guidance of in field Data Scientists from **The Clean Air Fund(^*)
 
 ### Explore the relationships between GDP, happiness scores, and air quality index using interactive visualizations. This notebook provides insights into global trends from 2022-2024 with scatter plots, line charts, bar charts, and bubble charts, all powered by Plotly for dynamic, engaging analysis.
 
